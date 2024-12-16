@@ -1,0 +1,16 @@
+pip
+db-dtypes
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+jupyter
+pandas==2.0.3
+numpy==1.25.2
+seaborn==0.13.1
+matplotlib==3.7.1
+scikit-learn==1.2.2
+xgboost==2.0.3
+imbalanced-learn==0.10.1
+pickle
+statsmodels==0.14.2
